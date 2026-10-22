@@ -1,0 +1,49 @@
+/* Brand tokens extracted from https://wknd.site/us/en.html */
+:root {
+  /* colors */
+  --background-color: #fff;
+  --light-color: #ebebeb;
+  --light-alt-color: #f7f7f7;
+  --dark-color: #202020;
+  --text-color: #202020;
+  --text-inverse-color: #ebebeb;
+  --link-color: #0045ff;
+  --link-hover-color: #0045ff;
+  --brand-primary-color: #ffea00;
+  --brand-secondary-color: #202020;
+  --brand-third-color: #ebebeb;
+  --border-color: #ebebeb;
+
+  /* fonts */
+  --body-font-family: 'Source Sans Pro', source-sans-pro-fallback, 'Helvetica Neue', helvetica, arial, sans-serif;
+  --heading-font-family: asar, asar-fallback, georgia, 'Times New Roman', times, serif;
+  --font-weight-normal: 400;
+  --font-weight-bold: 600;
+
+  /* body sizes */
+  --body-font-size-l: 24px;
+  --body-font-size-m: 18px;
+  --body-font-size-s: 14px;
+  --body-font-size-xs: 12px;
+
+  /* heading sizes */
+  --heading-font-size-xxl: 40px;
+  --heading-font-size-xl: 36px;
+  --heading-font-size-l: 24px;
+  --heading-font-size-m: 16px;
+  --heading-font-size-s: 14px;
+  --heading-font-size-xs: 10px;
+
+  /* buttons */
+  --button-font-size: 14px;
+  --button-border-radius: 0;
+  --button-size: 48px;
+
+  /* layout */
+  --content-max-width: 1164px;
+  --content-gutter: 14px;
+  --section-spacing: 64px;
+
+  /* nav height */
+  --nav-height: 114px;
+}
